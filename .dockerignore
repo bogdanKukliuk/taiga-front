@@ -1,4 +1,4 @@
 *
-!docker/default.conf
-!docker/conf.json.template
-!docker/config_env_subst.sh
+!default.conf
+!conf.json.template
+!config_env_subst.sh
